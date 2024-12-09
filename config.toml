@@ -1,7 +1,8 @@
 baseURL ="https://hugo-paper.vercel.app/"
 # title = "Hugo Themes"
-author = "Alejandra Citlalli"
-copyright = "© 2024, Ale"
+publishDir = "docs"
+author = "Steve Francia"
+copyright = "© 2024, lee.so"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -15,7 +16,7 @@ theme = "paper"
 title = "My Personal Blog"
 
 [params]
-  color = 'light'
+  color = 'wheat'
 
  # twitter = '' #Intento de quitarlo
   github = 'citla-aly' #github.com/citla-aly
@@ -23,7 +24,7 @@ title = "My Personal Blog"
 
 avatar = 'alejandra.ptovar@gmail.com'
   name = 'Alejandra Citlalli Pacheco Tovar'
-  bio = 'I am passionate about science, art, food, sports, and traveling.'
+  bio = 'I am passionate about science'
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
@@ -43,8 +44,6 @@ avatar = 'alejandra.ptovar@gmail.com'
     weight = 10
   [[menu.main]]
     identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
     weight = 10
 
 [taxonomies]

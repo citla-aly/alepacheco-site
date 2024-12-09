@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Personal Blog</title>
+    <link>https://hugo-paper.vercel.app/</link>
+    <description>Recent content on My Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024, lee.so</copyright>
+    <lastBuildDate>Mon, 09 Dec 2024 02:34:41 +0100</lastBuildDate>
+    <atom:link href="https://hugo-paper.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://hugo-paper.vercel.app/post/first-post/</link>
+      <pubDate>Mon, 09 Dec 2024 02:34:41 +0100</pubDate>
+      <guid>https://hugo-paper.vercel.app/post/first-post/</guid>
+      <description>HELLO WORLD!!! This is my first post. Please come back when I have written something interesting. Thanks! :)</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hugo-paper.vercel.app/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://hugo-paper.vercel.app/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://hugo-paper.vercel.app/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://hugo-paper.vercel.app/about/</guid>
+      <description>&amp;ldquo;To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life.&amp;rdquo; I heard this motto for the first time 10 years ago. Since then I have trying to live that way.&#xA;This blog is a compilation of little moments in my life. Movies, travels, foods, and thoughts that together make me.&#xA;Thanks for reading, I hope to find another adventurous person in you.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://hugo-paper.vercel.app/contact/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://hugo-paper.vercel.app/contact/</guid>
+      <description> github.com/citla-aly </description>
+    </item>
+  </channel>
+</rss>
