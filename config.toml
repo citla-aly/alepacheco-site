@@ -31,7 +31,7 @@ avatar = 'alejandra.ptovar@gmail.com'
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true
+      unsafe = false #cit cambio a true en caso de error
 #  [markup.highlight]
 #    lineNos = true
 
@@ -40,7 +40,7 @@ avatar = 'alejandra.ptovar@gmail.com'
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "https://citla-aly.github.io/about/"
+    url = "/about/"
     weight = 10
   [[menu.main]]
     identifier = "contact"
