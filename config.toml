@@ -40,7 +40,7 @@ avatar = 'alejandra.ptovar@gmail.com'
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "https://citla-aly.github.io/about/"
+    url = "https://citla-aly.github.io/alepacheco-site/about/"
     weight = 10
   [[menu.main]]
     identifier = "contact"
