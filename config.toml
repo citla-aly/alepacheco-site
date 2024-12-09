@@ -31,7 +31,7 @@ avatar = 'alejandra.ptovar@gmail.com'
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = false #cit cambio a true en caso de error
+      unsafe = true
 #  [markup.highlight]
 #    lineNos = true
 
