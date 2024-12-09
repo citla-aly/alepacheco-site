@@ -2,7 +2,7 @@ baseURL ="https://citla-aly.github.io/alepacheco-site/"
 # title = "Hugo Themes"
 publishDir = "docs"
 author = "Steve Francia"
-copyright = "© 2024, lee.so"
+copyright = "© 2024, Ale"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -40,7 +40,7 @@ avatar = 'alejandra.ptovar@gmail.com'
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "https://citla-aly.github.io/about/"
     weight = 10
   [[menu.main]]
     identifier = "contact"
