@@ -1,4 +1,4 @@
-baseURL ="https://hugo-paper.vercel.app/"
+baseURL ="https://citla-aly.github.io/alepacheco-site/"
 # title = "Hugo Themes"
 publishDir = "docs"
 author = "Steve Francia"
